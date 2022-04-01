@@ -109,7 +109,7 @@ parsed_args.each { currentRepo ->
         if (currentRepo.type == 'proxy') {
             configuration.attributes['httpclient'] = [
                     blocked       : false,
-                    autoBlock     : true,
+                    autoBlock     : currentRepo.get('auto_block', true),
                     connection    : [
                             useTrustStore: false
                     ]
