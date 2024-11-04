@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This repository-fork has been archived and is under no active development.
+> It has been replaced by functionality created in https://github.com/camunda/team-infrastructure/issues/652
+
 [![Build Status](https://travis-ci.org/ansible-ThoTeam/nexus3-oss.svg?branch=master)](https://travis-ci.org/ansible-ThoTeam/nexus3-oss)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ansible-ThoTeam/nexus3-oss)](https://github.com/ansible-ThoTeam/nexus3-oss/releases/latest)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/ansible-ThoTeam/nexus3-oss/latest)
